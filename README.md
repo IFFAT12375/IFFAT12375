@@ -18,8 +18,8 @@ Passionate about solving real-world problems and delivering **efficient, user-fr
 **Frontend:** React.js, HTML/CSS, Material-UI, Tailwind  
 **Backend:** Node.js, Express.js, REST APIs  
 **Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, VS Code, Render, Vercel  
-**Languages:** JavaScript, C++  
+**Tools:** Git, GitHub, Postman, VS Code, Render, Vercel, Docker
+**Languages:** JavaScript, TypeScript, C++  
 **Emerging Skills:** Clerk, OpenAI API, n8n, MCP, RAG, PostgreSQL (SaaS focus)  
 
 ---
