@@ -37,8 +37,8 @@ Passionate about solving real-world problems and delivering **efficient, user-fr
 - Debugged real-world production issues and improved system performance and stability.
 - Collaborated in agile sprints using GitHub workflows, PR reviews, and testing cycles.
 - **Key Project:**
-- Star Oil CRM: Developed modules for leads, transactions, dashboards, and role-based workflows
-- Sales CRM: Built backend services, validations, and frontend integrations for customer, contact, and
+- **Star Oil CRM:** Developed modules for leads, transactions, dashboards, and role-based workflows
+- **Sales CRM:** Built backend services, validations, and frontend integrations for customer, contact, and
   opportunity management
 
 ---
