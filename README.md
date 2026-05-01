@@ -27,19 +27,19 @@ Passionate about solving real-world problems and delivering **efficient, user-fr
 
 ### **MERN Stack Developer – Tekkdev (Subsidiary of GCS Group)**  
 📍 Lahore, Pakistan | **Nov 2025 – Present**  
-- Developing a full-stack **CRM (Star Oil)** using React, Node.js, Express, and MongoDB.  
-- Building scalable REST APIs and implementing TypeScript components.  
-- Debugging full-stack issues and contributing to sprint cycles.  
-- **Key Project:** Star Oil CRM  
-
----
-
-### **MERN Stack Developer – The CloudOps LTD**  
-📍 Lahore, Pakistan | **Sep 2025 – Nov 2025**  
-- Enhanced and maintained a production dashboard for a private jet booking platform.  
-- Delivered full-stack features (React UI + Node/Express APIs + SQL operations).  
-- Used Docker + GitHub workflows (branches, PR reviews) for collaboration.  
-- **Key Project:** PrivateJetOneWays Dashboard  
+- Built and maintained full-stack CRM systems using React, JavaScript, Node.js, Express, and MongoDB.
+- Developed and integrated RESTful APIs with proper validation, error handling, and optimized data
+  flow. 
+- Implemented role-based access control (RBAC) and audit logging to track user actions across
+  modules
+- Enhanced UI reusability by creating modular UI components using React and Tailwind, reducing
+  development effort across modules  
+- Debugged real-world production issues and improved system performance and stability.
+- Collaborated in agile sprints using GitHub workflows, PR reviews, and testing cycles.
+- **Key Project:**
+- Star Oil CRM: Developed modules for leads, transactions, dashboards, and role-based workflows
+- Sales CRM: Built backend services, validations, and frontend integrations for customer, contact, and
+  opportunity management
 
 ---
 
