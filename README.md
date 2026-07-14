@@ -4,22 +4,22 @@ iffatsattar6@gmail.com | 📞 +92 309 4722757 | 🔗 [LinkedIn](https://linkedin
 
 ---
 
-## 🚀 About Me  
-Software Engineer with hands-on experience in **MERN stack development**.  
-I build **full-stack applications** with authentication, CRUD operations, modern UIs, and scalable APIs.  
-Skilled in React, Node.js, Express, MongoDB, and deployment workflows.  
-Passionate about solving real-world problems and delivering **efficient, user-friendly solutions**.  
+## 🚀 About Me
+
+Software Engineer with hands-on experience building scalable full-stack web applications using the MERN Stack.
+Experienced in developing enterprise CRM systems, implementing secure authentication, Role-Based Access Control (RBAC), RESTful APIs, reusable React components, and modern responsive user interfaces.
+Passionate about writing clean, maintainable code and continuously learning modern technologies including AI integrations and SaaS architecture.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools
 
-**Frontend:** React.js, HTML / CSS, Material-UI, Tailwind  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Docker, Postman, VS Code, Render, Vercel  
-**Languages:** JavaScript, TypeScript, C++  
-**Emerging Skills:** Clerk, OpenAI API, n8n, MCP, RAG, PostgreSQL (SaaS focus)  
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Material UI
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+**Databases:** MongoDB, Mongoose, MySQL
+**Architecture:** RBAC, Permission Management, CRUD Systems, Pagination, Search & Filtering, Service Layer Architecture
+**Tools:** Git, GitHub, Docker, Postman, VS Code, Render, Vercel
+**Languages:** JavaScript, TypeScript, C++
 
 ---
 
@@ -37,7 +37,7 @@ Passionate about solving real-world problems and delivering **efficient, user-fr
 - Debugged real-world production issues and improved system performance and stability.
 - Collaborated in agile sprints using GitHub workflows, PR reviews, and testing cycles.
 - **Key Project:**
-- **Star Oil CRM:** Developed modules for leads, transactions, dashboards, and role-based workflows
+- **OMC CRM:** Developed modules for leads, transactions, dashboards, and role-based workflows
 - **Sales CRM:** Built backend services, validations, and frontend integrations for customer, contact, and
   opportunity management
 
@@ -53,6 +53,18 @@ Passionate about solving real-world problems and delivering **efficient, user-fr
 ---
 
 ## 📂 Personal Projects  
+
+### 🔹 **Sales CRM – Enterprise Sales CRM System** *(Ongoing)*  
+*MERN Stack, React.js, Node.js, Express.js, MongoDB, Material UI, Tailwind CSS, JWT, RBAC*
+- Built a scalable enterprise CRM for managing **employees, customers, contacts, sales interactions, opportunities, proposals, tender requirements, dashboards, and audit logs**.
+- Designed and implemented a **Role-Based Access Control (RBAC)** system with hierarchical permissions, role inheritance, and user-level permission overrides.
+- Developed secure RESTful APIs with authentication, authorization, validation, pagination, filtering, search, and centralized error handling.
+- Built reusable React components, responsive dashboards, dynamic tables, forms, and permission-driven UI rendering.
+- Implemented complete CRUD operations across all CRM modules with optimized backend architecture following service-based design.
+- Integrated activity tracking and audit logs to monitor important user actions across the application.
+- Currently expanding the CRM with advanced sales workflow automation and SaaS-ready architecture.
+
+---
 
 ### 🔹 **ServiceConnect – MERN Service Marketplace**  
 *MERN, JWT + bcrypt, Fetch, Render*  
