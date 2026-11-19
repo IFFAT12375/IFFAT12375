@@ -1,0 +1,130 @@
+<h1 align="center">Hi, I'm Iffat Sattar 👋</h1>
+
+<h3 align="center">MERN Stack Developer · Lahore, Pakistan</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=620&lines=Full-stack+MERN+developer;I+build+secure+REST+APIs+and+clean+UIs;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Open+to+new+opportunities" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/iffat-sattar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:iffatsattar6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://iffatsattar-portfolio-pzs7r0z71-iffat123975s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=IFFAT12375&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+MERN Stack Developer with **1 year of professional experience** building full-stack web applications and enterprise CRM systems with **React, Node.js, Express, and MongoDB**.
+
+I focus on **secure authentication**, **role-based access control (RBAC)**, **REST APIs**, reusable React components, and responsive interfaces. I'm currently going deeper into **TypeScript, SQL, system design, and cloud deployment**, and I'm open to new opportunities.
+
+---
+
+## 🛠️ Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,mysql,tailwind,materialui,html,css,git,github,docker,nginx,aws,postman,vercel,vscode" alt="Skills" />
+</p>
+
+| Area | Technologies |
+|------|--------------|
+| **Languages** | JavaScript (ES6+), TypeScript, SQL, C++ |
+| **Frontend** | React.js, Redux Toolkit, React Router, Tailwind CSS, Material UI, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, WebSockets, Streams |
+| **Databases** | MongoDB, Mongoose, MySQL, Data Modeling |
+| **Architecture** | RBAC, Service-Layer Architecture, System Design, API Validation |
+| **DevOps & Tools** | Git, GitHub, Docker, Nginx, AWS EC2, Vercel, Render, Postman, Swagger/OpenAPI |
+
+---
+
+## 💼 Work Experience
+
+### MERN Stack Developer · Tekkdev (Subsidiary of GCS Group)
+📍 Lahore, Pakistan · **Nov 2025 – Present**
+
+- **Built and maintained 2 production CRM systems** (OMC CRM and Sales CRM) using **React, Node.js, Express, and MongoDB**, resulting in **role-based workflows** for leads, transactions, customers, contacts, and opportunities.
+- **Developed RESTful APIs** using **Express, Joi validation, and centralized error handling**, resulting in consistent, validated data flow between the frontend and **MongoDB**.
+- **Implemented RBAC and audit logging** using **JWT and Express middleware**, resulting in **permission-restricted modules** and a traceable record of user actions.
+- **Created modular UI components** using **React and Tailwind CSS**, resulting in **reduced development effort** and a consistent interface across modules.
+
+### MERN Stack Intern · Systems Limited
+📍 Lahore, Pakistan · **Apr 2024 – Aug 2024**
+
+- **Built a full-featured POS system** (orders, billing, customer management) using **React, Node.js, and MongoDB**, resulting in an end-to-end working sales workflow.
+- **Implemented JWT authentication and Redux** for secure sessions and state management.
+- **Developed reusable Material UI components and REST APIs**, and optimized backend performance for better stability.
+
+---
+
+## 📂 Featured Projects
+
+### 🏠 PropertyHub · Real Estate Marketplace
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://propertyhub-blush.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/IFFAT12375/propertyhub)
+
+*MongoDB · Express · React · Node.js · Redux Toolkit · RTK Query · Zod · Nodemailer · Vercel*
+
+- **Built** a Lahore-focused marketplace with **property search, filters, favorites, and inquiries** for sale and rent listings.
+- **Implemented** a **seller approval and admin review workflow** using **role-based access control**, so only reviewed listings go public.
+- **Secured** APIs with **token-based authentication, password hashing, Zod validation, and rate limiting**, plus **email-verified inquiries**.
+- **Deployed** client and API as separate **Vercel** projects with **automated backend tests** and **health check endpoints**.
+
+### 📈 Enterprise Sales CRM · Full-Stack CRM
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/IFFAT12375/enterprise-crm-frontend)
+
+*MongoDB · Express 5 · React 19 · Node.js · JWT · Joi · Material UI · Tailwind CSS · Chart.js · Swagger/OpenAPI*
+
+- **Built a REST API with 10 modules** covering contacts, opportunities, interactions, proposals, tender requirements, audit logs, and analytics.
+- **Secured** the API with **JWT access and refresh tokens, bcryptjs, and role-based permissions**, with request validation through **Joi** and **express-validator**.
+- **Developed 4 role-based dashboards** and a **6-tab sales module** in **React 19** with automatic token renewal.
+- **Delivered** KPI dashboards, **Excel and PDF exports**, and **Swagger/OpenAPI** documentation for all endpoints.
+
+### 🔐 User Management System · Authentication & Admin Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/IFFAT12375/user-management-system)
+
+*MongoDB · Express · React · Node.js · JWT · bcrypt · Express Validator · Swagger/OpenAPI · Vite*
+
+- **Built 10 REST API endpoints** covering authentication and complete user CRUD.
+- **Secured** sessions with **JWT access tokens, HttpOnly refresh cookies, and bcrypt hashing**, enforcing **User and Admin roles** on the server.
+- **Added request validation** with **Express Validator** and middleware on registration, login, and user routes.
+- **Documented** every endpoint with **OpenAPI 3.0 and Swagger UI**.
+
+### More projects
+- **ServiceConnect:** MERN service marketplace connecting providers and customers, with admin controls and JWT + bcrypt authentication.
+- **Product Listing Website:** MERN CRUD platform for managing product inventory with a responsive React UI.
+
+---
+
+## 🌱 Currently Learning
+
+**Dev Weekends Fellowship:** mentorship-based program with weekly accountability. Focus areas: **TypeScript, SQL, system design, data modeling, WebSockets, Streams, AWS EC2, Docker, and Nginx**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IFFAT12375&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFFAT12375&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IFFAT12375&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+- **Post Graduate Diploma in Computer Science:** Systems Ltd. IT Mustakbil Training Program (Batch-3), BNU Lahore · *Sep 2024 – Mar 2025*
+- **MBA:** University of Central Punjab, Lahore · *Mar 2022 – Feb 2024*
+- **BS Software Engineering:** COMSATS University Islamabad · *Oct 2017 – Aug 2021* (FYP: SEO-based Flutter app with authentication and real-time tracking)
+- **The Complete MERN-Stack Web Development Bootcamp:** Udemy · *Apr 2025*
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **full-stack and MERN developer opportunities**. Reach me on [LinkedIn](https://linkedin.com/in/iffat-sattar) or [email](mailto:iffatsattar6@gmail.com).
