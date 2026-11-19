@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/iffat-sattar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="iffatsattar6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:iffatsattar6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://iffatsattar-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=IFFAT12375&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
@@ -126,4 +126,4 @@ I focus on **secure authentication**, **role-based access control (RBAC)**, **RE
 
 ## 🤝 Let's Connect
 
-I'm open to **full-stack and MERN developer opportunities**. Reach me on [LinkedIn](https://linkedin.com/in/iffat-sattar) or [email](iffatsattar6@gmail.com).
+I'm open to **full-stack and MERN developer opportunities**. Reach me on [LinkedIn](https://linkedin.com/in/iffat-sattar) or [email](mailto:iffatsattar6@gmail.com).
